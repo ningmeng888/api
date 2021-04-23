@@ -1,5 +1,5 @@
 
 {
     "domain": "https://abc.24koe16f.xyz",
-    "ws": "abc.24koe16f.xyz:8282"
+    "ws": "wss://abc.24koe16f.xyz:8282"
 }
